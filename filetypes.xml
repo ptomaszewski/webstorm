@@ -12,6 +12,7 @@
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="asd.js" type="Native" />
+      <mapping pattern="eventsClient" type="TypeScript JSX" />
     </extensionMap>
   </component>
 </application>
