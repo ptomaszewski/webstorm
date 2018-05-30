@@ -10,6 +10,14 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="ptomaszewski" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.sportradar.ag:ctrl/frontend-frontend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.sportradar.ag:ctrl/docker.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects" />
